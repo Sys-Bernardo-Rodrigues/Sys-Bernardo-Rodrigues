@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B5E20,100:7CB342&text=Dopa%20do%20Terer%C3%A9&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20CEO%20%40%20Type77%20%C2%B7%20S%C3%B3cio%20%40%20ZROOT&descSize=17&descAlignY=58&animation=fadeIn" alt="Dopa do Tereré" width="100%"/>
+<img src="assets/banner.svg" alt="Dopa do Tereré — Full-Stack Developer, CEO @ Type77, Sócio @ ZROOT" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7CB342&center=true&vCenter=true&width=700&lines=Transformando+problemas+reais+em+sistemas+que+funcionam+%F0%9F%A7%89;Do+banco+de+dados+%C3%A0+interface%2C+de+ponta+a+ponta;Gest%C3%A3o+de+acesso+%C2%B7+WMS+%C2%B7+Helpdesk+%C2%B7+IoT;Sempre+com+um+terer%C3%A9+gelado+ao+lado" alt="Typing SVG" />
 
