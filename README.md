@@ -13,25 +13,17 @@
   <img src="https://komarev.com/ghpvc/?username=dopa-do-terere&label=Visitas&color=7CB342&style=for-the-badge" alt="Visitas"/>
 </p>
 
+<img src="assets/divider.svg" alt="" width="100%"/>
+
 </div>
 
-<br/>
-
-## 🧉 Quem sou eu
+<img src="assets/head-sobre.svg" alt="Quem sou eu" width="100%"/>
 
 Sou **Dopa do Tereré**, desenvolvedor full-stack de Chapecó/SC e bacharelando em Ciência da Computação pela **Unochapecó**. Comando a **Type77 — Consultoria e Desenvolvimento** como CEO e sou sócio-proprietário da **ZROOT**, onde projeto e entrego sistemas completos para negócios reais: controle de acesso, estoque, atendimento, dashboards e automação com hardware.
 
-```ts
-const dopa = {
-  nome: "Dopa do Tereré",
-  papel: ["CEO @Type77", "Sócio @ZROOT"],
-  base: "Chapecó/SC, Brasil 🇧🇷",
-  formação: "Ciência da Computação @Unochapecó",
-  foco: ["gestão de acesso", "WMS", "helpdesk", "dashboards", "IoT / Raspberry Pi"],
-  stack: ["TypeScript", "Node.js", "React", "Python", "PHP/Laravel", "C++", "PostgreSQL", "Docker"],
-  combustível: "tereré gelado 🧉",
-};
-```
+<div align="center">
+<img src="assets/terminal.svg" alt="dopa.ts — perfil em código" width="100%"/>
+</div>
 
 |   |   |
 |---|---|
@@ -40,11 +32,11 @@ const dopa = {
 | 💬 **Pergunte-me sobre** | Sistemas sob medida, controle de acesso, catracas, automação e dashboards |
 | ⚡ **Curiosidade** | Gosto de ver o software mexer no mundo físico: relés, catracas e armários |
 
-<br/>
-
-## 🛠️ Stack
+<img src="assets/head-stack.svg" alt="Stack" width="100%"/>
 
 <div align="center">
+
+<img src="assets/marquee.svg" alt="TypeScript, JavaScript, Python, PHP, C++, Node.js, React, Laravel, Flask, PostgreSQL, Docker, Linux, Raspberry Pi, Arduino, Git" width="100%"/>
 
 | | |
 |:--|:--|
@@ -56,58 +48,32 @@ const dopa = {
 
 </div>
 
-<br/>
+<img src="assets/head-projetos.svg" alt="Projetos em destaque" width="100%"/>
 
-## 🚀 Projetos em destaque
-
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 📦 [WMS-Inviolavel](https://github.com/dopa-do-terere/WMS-Inviolavel)
-Gestão de estoque (WMS) completa.
-<br/>`Node.js` `TypeScript` `Express` `PostgreSQL` `React` `Vite`
-
-### 🎫 [TIDESK](https://github.com/dopa-do-terere/TIDESK)
-Helpdesk completo de tickets e suporte.
-<br/>`React` `TypeScript` `Node.js`
-
-### 🚪 [zControl (zIN)](https://github.com/dopa-do-terere/zControl)
-SaaS de gestão de acessos integrado a catracas Hikvision.
-<br/>`Laravel` `PostgreSQL` `Docker`
-
-### 🔑 [InvioKey](https://github.com/dopa-do-terere/InvioKey)
-Armário inteligente de chaves: totem, painel admin e hardware.
-<br/>`Raspberry Pi` `IoT`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ [InvioInstall](https://github.com/dopa-do-terere/InvioInstall)
-Controle de instalações, orçamentos e estoque via API REST.
-<br/>`Laravel` `REST API`
-
-### ⚡ [ZIQ API](https://github.com/dopa-do-terere/ZIQ)
-API containerizada.
-<br/>`Node.js` `PostgreSQL` `Docker`
-
-### 🔌 [Zapy](https://github.com/dopa-do-terere/zapy_rasp)
-Painel de controle de relés via GPIO.
-<br/>`Python` `Flask` `Raspberry Pi`
-
-### 📊 [Cronograma Flesak](https://github.com/dopa-do-terere/DotOne-Dash)
-Gestão de clientes, plano de ação, KPIs e dashboard de performance.
-<br/>`JavaScript` `Dashboard`
-
-</td>
+<td><a href="https://github.com/dopa-do-terere/WMS-Inviolavel"><img src="assets/card-wms.svg" alt="WMS-Inviolavel: gestão de estoque (WMS) completa" width="430"/></a></td>
+<td><a href="https://github.com/dopa-do-terere/TIDESK"><img src="assets/card-tidesk.svg" alt="TIDESK: helpdesk completo de tickets e suporte" width="430"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/dopa-do-terere/zControl"><img src="assets/card-zcontrol.svg" alt="zControl (zIN): gestão de acessos com catracas Hikvision" width="430"/></a></td>
+<td><a href="https://github.com/dopa-do-terere/InvioKey"><img src="assets/card-inviokey.svg" alt="InvioKey: armário inteligente de chaves" width="430"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/dopa-do-terere/InvioInstall"><img src="assets/card-inviinstall.svg" alt="InvioInstall: instalações, orçamentos e estoque via API REST" width="430"/></a></td>
+<td><a href="https://github.com/dopa-do-terere/ZIQ"><img src="assets/card-ziq.svg" alt="ZIQ API: API containerizada" width="430"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/dopa-do-terere/zapy_rasp"><img src="assets/card-zapy.svg" alt="Zapy: painel de controle de relés via GPIO" width="430"/></a></td>
+<td><a href="https://github.com/dopa-do-terere/DotOne-Dash"><img src="assets/card-flesak.svg" alt="Cronograma Flesak: clientes, plano de ação, KPIs e dashboard" width="430"/></a></td>
 </tr>
 </table>
+</div>
 
 > 🔒 A maior parte do que a Type77 e a ZROOT entregam é privada, sob contrato com clientes. O que está aqui é a vitrine pública.
 
-<br/>
-
-## 📈 Em números
+<img src="assets/head-numeros.svg" alt="Em números" width="100%"/>
 
 <div align="center">
 
@@ -132,15 +98,13 @@ Gestão de clientes, plano de ação, KPIs e dashboard de performance.
 
 </div>
 
-<br/>
-
-## 🤝 Vamos conversar?
+<img src="assets/head-contato.svg" alt="Vamos conversar?" width="100%"/>
 
 Tem um projeto em mente, um sistema para tirar do papel ou só quer trocar uma ideia sobre tecnologia? Me chama por aqui:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bernardo-rodrigues-dev/"><img src="https://img.shields.io/badge/Falar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/Benrdrs"><img src="https://img.shields.io/badge/Seguir%20no%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/bernardo-rodrigues-dev/"><img src="assets/btn-linkedin.svg" alt="Falar no LinkedIn" height="60"/></a>
+  <a href="https://twitter.com/Benrdrs"><img src="assets/btn-x.svg" alt="Seguir no X" height="60"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7CB342,100:1B5E20&section=footer" alt="" width="100%"/>
+<img src="assets/footer.svg" alt="Valeu pela visita! Bora tomar um tereré?" width="100%"/>
