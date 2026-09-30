@@ -108,3 +108,5 @@ Tem um projeto em mente, um sistema para tirar do papel ou só quer trocar uma i
 </p>
 
 <img src="assets/footer.svg" alt="Valeu pela visita! Bora tomar um tereré?" width="100%"/>
+
+<p align="center"><sub>Ícone da cuia: <a href="https://github.com/twitter/twemoji">Twemoji</a> (CC-BY 4.0) · <a href="assets/CREDITS.md">créditos</a></sub></p>
