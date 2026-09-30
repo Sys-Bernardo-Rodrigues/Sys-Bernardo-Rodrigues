@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Dopa do Tereré — Full-Stack Developer, CEO @ Type77, Sócio @ ZROOT" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7CB342&center=true&vCenter=true&width=700&lines=Transformando+problemas+reais+em+sistemas+que+funcionam+%F0%9F%A7%89;Do+banco+de+dados+%C3%A0+interface%2C+de+ponta+a+ponta;Gest%C3%A3o+de+acesso+%C2%B7+WMS+%C2%B7+Helpdesk+%C2%B7+IoT;Sempre+com+um+terer%C3%A9+gelado+ao+lado" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=7CB342&center=true&vCenter=true&width=800&height=40&lines=Transformo+problemas+reais+em+sistemas+%F0%9F%A7%89;Do+banco+de+dados+%C3%A0+interface;Acesso+%C2%B7+WMS+%C2%B7+Helpdesk+%C2%B7+IoT;Sempre+com+um+terer%C3%A9+gelado+ao+lado" alt="Typing SVG" />
 
 <br/>
 
